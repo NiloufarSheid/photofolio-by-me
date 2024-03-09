@@ -1,0 +1,45 @@
+.hheader{
+    color: white;
+  
+}
+.me-auto{
+    color: wheat    !important;
+}
+#collapsible-nav-dropdown{
+    color: rgba(255, 255, 255, 0.5) !important   ;      
+}
+#collapsible-nav-dropdown{
+    background-color: black !important;
+    color:rgba(255, 255, 255, 0.5) !important             ;
+}
+.me-auto{
+    justify-content: center !important      ;
+    align-items: center     !important;
+    text-align: center !important   ;
+}
+.linki  {
+    color: white;
+}
+.network{
+    display: flex                ;
+    flex-wrap: wrap;
+    justify-content: center !important;
+}
+span.navbar-toggler-icon{
+   
+}
+.item{
+    color: rgba(255, 255, 255, 0.5);
+ 
+    
+             
+}
+
+.dropdown-menu { background-color: black    !important;
+        
+
+}
+.nav-link :hover{
+color: white;
+}
+body a{text-decoration: none !important;}

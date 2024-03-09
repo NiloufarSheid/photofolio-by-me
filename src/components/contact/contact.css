@@ -1,0 +1,22 @@
+.form{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.button1{
+    align-items: center;
+    justify-content: center;
+    display: block;
+}
+.iconstyle{
+    color: white;
+   
+}
+.inputs{
+    border-radius: 4px;
+    box-shadow: none;
+    font-size: 14px;
+    background-color:#1c1e20 ;
+    border: 1px solid #2e3133;
+    color: #fff;
+}

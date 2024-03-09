@@ -1,0 +1,37 @@
+.pricing-wrapper {
+    border-bottom: 1px dashed #ffffff;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+   
+}
+
+
+
+.iconsstyle{
+    color:  #ffffff; 
+    font-size: 30px;
+}
+.icon-wrapper{
+    border-radius: 50%;
+    background-color: #27a776;
+    width: fit-content ;
+    height: fit-content;
+}
+
+.service-card {
+    transition: .5s;
+}
+.service-card:hover {
+    background-color: #27a776 !important;
+}
+
+.service-card:hover .icon-wrapper {
+    background-color: #ffffff;
+    
+}
+
+.service-card:hover .iconsstyle {
+    color: #27a776 !important;
+
+}

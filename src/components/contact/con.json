@@ -1,0 +1,14 @@
+[
+    {"subject":"Location",
+    "loc":"A108 Adam Street, New York, NY 535022",
+    "icon":"bi bi-geo-alt"
+},
+{"subject":"Email",
+"loc":"info@example.com",
+"icon":"bi bi-envelope"
+
+},
+{"subject":"Call",
+"loc":"+1 5589 55488 55",
+"icon":"bi bi-phone"}
+]
